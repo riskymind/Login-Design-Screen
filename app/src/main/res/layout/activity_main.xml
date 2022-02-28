@@ -96,6 +96,8 @@
             android:layout_marginTop="30dp"
             android:backgroundTint="@color/colorTextHint"
             android:hint="@string/email"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/welcome"
             app:startIconDrawable="@drawable/ic_email">
 
