@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LoginScreenDesign</string>
+    <string name="header_image">header image</string>
+    <string name="your_app">Your App</string>
+    <string name="tag_line">tag line</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="create_account">Create Account</string>
 </resources>
